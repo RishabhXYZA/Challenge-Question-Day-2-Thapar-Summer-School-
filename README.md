@@ -1,4 +1,4 @@
-# Third-Project
+# Challenge Question 
 Mini Project 2: Challenge Question:
 Given a hetrogeneous data:
 L=[1,"Ram",2,"Shyam",3,"Aman"].
